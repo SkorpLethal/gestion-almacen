@@ -1,0 +1,11 @@
+C:\Users\Usuario\OneDrive\Escritorio\La vita stessa\Programador\Best\.net\gestion-almacen\GestionAlmacen\GestionAlmacen\bin\Debug\GestionAlmacen.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\La vita stessa\Programador\Best\.net\gestion-almacen\GestionAlmacen\GestionAlmacen\bin\Debug\GestionAlmacen.exe
+C:\Users\Usuario\OneDrive\Escritorio\La vita stessa\Programador\Best\.net\gestion-almacen\GestionAlmacen\GestionAlmacen\bin\Debug\GestionAlmacen.pdb
+C:\Users\Usuario\OneDrive\Escritorio\La vita stessa\Programador\Best\.net\gestion-almacen\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\La vita stessa\Programador\Best\.net\gestion-almacen\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\La vita stessa\Programador\Best\.net\gestion-almacen\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\La vita stessa\Programador\Best\.net\gestion-almacen\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\La vita stessa\Programador\Best\.net\gestion-almacen\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.exe
+C:\Users\Usuario\OneDrive\Escritorio\La vita stessa\Programador\Best\.net\gestion-almacen\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.pdb
+C:\Users\Usuario\OneDrive\Escritorio\La vita stessa\Programador\Best\.net\gestion-almacen\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.FormPrincipal.resources
+C:\Users\Usuario\OneDrive\Escritorio\La vita stessa\Programador\Best\.net\gestion-almacen\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.FormProducto.resources
